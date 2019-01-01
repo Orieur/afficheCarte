@@ -1,4 +1,5 @@
 import os
+import discord.py
 import Bot
 
 BOT_PREFIX = ("?")
