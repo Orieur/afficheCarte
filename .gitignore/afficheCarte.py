@@ -1,7 +1,9 @@
 from discord.ext.commands import Bot
+import os
 
 BOT_PREFIX = ("?")
-TOKEN = "NTA3ODMxMDAyNjU2NDA3NTUy.Dwmt4A.9ByNjPjeAs1NUKbbCSrlgTlInUY"
+access_token= os.environ["ACCESS_TOKEN"]
+
 
 client = Bot(command_prefix=BOT_PREFIX)
 
