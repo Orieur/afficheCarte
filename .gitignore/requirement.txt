@@ -7,3 +7,4 @@ distribute==0.6.24
 gunicorn==19.9.0
 requests==2.21.0
 pip freeze
+discord
