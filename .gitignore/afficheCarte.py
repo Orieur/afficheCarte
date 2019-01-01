@@ -1,4 +1,4 @@
-from discord.ext.commands import Bot
+from discord.py[voice].ext.commands import Bot
 import os
 
 BOT_PREFIX = ("?")
