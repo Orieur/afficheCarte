@@ -10,6 +10,6 @@ client = Bot(command_prefix=BOT_PREFIX)
 async def on_message(message):
 	if message.content.startswith("?"):
 		newMessage = 'https://www.cardgame.fr/assets/images/cards_medium/' + str(message.content)[1:].upper() + '.png'
-		await client.send(message.channel, newMessage)
+		await client.send_message(message.channel, newMessage)
 	
 client.run(access_token)
