@@ -1,4 +1,4 @@
-git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
+discord.py==3.6.7
 Flask==1.0.2
 Jinja2==2.6
 Werkzeug==0.8.3
