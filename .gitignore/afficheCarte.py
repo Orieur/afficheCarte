@@ -1,6 +1,4 @@
 import os
-import discord.py
-import Bot
 
 BOT_PREFIX = ("?")
 access_token= os.environ["ACCESS_TOKEN"]
