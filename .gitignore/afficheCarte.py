@@ -1,3 +1,4 @@
+import discord
 from discord.py.ext.commands import Bot
 import os
 
