@@ -1,1 +1,2 @@
-worker: python3 afficheCarte.py
+worker: python3 afficheCarte.py —-log-file -
+web: gunicorn afficheCarte.py —-log-file -
