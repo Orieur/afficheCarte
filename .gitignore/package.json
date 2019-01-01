@@ -1,9 +1,0 @@
-{
-  "name": "afficheCarte",
-  "version": "1.0.0",
-  "description": "affiche Carte dbs",
-}
-  "author": "Franck DBS",
-  "dependencies":{
-    "afficheCarte.py"
-}
