@@ -1,3 +1,4 @@
+git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
 Flask==1.0.2
 Jinja2==2.6
 Werkzeug==0.8.3
@@ -9,6 +10,5 @@ requests==2.21.0
 aiohttp==1.0.5
 async-timeout==3.0.0
 pipenv==2018.7.1
-discord.py
 pip freeze
 
