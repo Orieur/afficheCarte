@@ -6,5 +6,8 @@ chardet==1.0.1
 distribute==0.6.24
 gunicorn==19.9.0
 requests==2.21.0
+aiohttp==1.0.5
+async-timeout==3.0.0
+discord.py==0.16.12
 pip freeze
-discord
+
