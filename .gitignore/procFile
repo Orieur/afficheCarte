@@ -1,2 +1,2 @@
-worker: python index
-web: gunicorn app:app
+worker: python afficheCarte
+
