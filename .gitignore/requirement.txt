@@ -11,4 +11,5 @@ aiohttp==1.0.5
 async-timeout==3.0.0
 pipenv==2018.7.1
 pip freeze
+discord
 
