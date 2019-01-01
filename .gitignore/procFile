@@ -1,2 +1,3 @@
-worker: python afficheCarte
+worker: python3 afficheCarte.py
+
 
