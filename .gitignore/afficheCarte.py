@@ -1,6 +1,6 @@
-import discord
-from discord.py.ext.commands import Bot
 import os
+import discord
+import Bot
 
 BOT_PREFIX = ("?")
 access_token= os.environ["ACCESS_TOKEN"]
