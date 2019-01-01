@@ -1,1 +1,2 @@
 worker: python index
+web: gunicorn app:app
